@@ -1,2 +1,2 @@
 # Internship-Presentation
-A presentation about Ethical Computing with focus on Surveillance Capitalism and AI
+A repository about Ethical Computing with focus on Surveillance Capitalism and AI
